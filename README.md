@@ -27,8 +27,7 @@ This repository contains simple, clean, and educational implementations of well-
 - matplotlib
 - pandas
 
-Install:
-```bash
+
 pip install numpy scipy matplotlib pandas
 ## 🚀 Purpose
 
