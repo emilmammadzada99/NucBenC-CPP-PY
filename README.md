@@ -38,7 +38,8 @@ The goal of this repository is to:
 - Help understanding **numerical reactor physics**
 - Serve as a **learning resource**
 
----
+![ANL 11-A2 Simulation](anl11a2_fd_python/ANL11A2_23s_Final.gif)
+
 
 ## 📂 Structure
 
