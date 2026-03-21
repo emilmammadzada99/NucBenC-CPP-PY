@@ -9,6 +9,11 @@ This repository contains simple, clean, and educational implementations of well-
 - k-eigenvalue problem
 - Finite Difference (FD)
 - Python version
+### 2. Pincell 2Group
+- Two-group neutron diffusion
+- k-eigenvalue problem
+- Finite Difference (FD)
+- Python version
  
 ## 📊 Features
 
@@ -40,6 +45,9 @@ The goal of this repository is to:
 
 ![ANL 11-A2 Simulation](anl11a2_fd_python/ANL11A2_23s_Final.gif)
 ![ANL 11-A2 Comparison](anl11a2_fd_python/comparison.png)
+![fdm_pincell_2g_matmap](pincell_2group_FD_py/fdm_pincell_2g_matmap.png)
+![fdm_pincell_2g_flux](pincell_2group_FD_py/fdm_pincell_2g_flux.png)
+![fdm_pincell_2g_centerline](pincell_2group_FD_py/fdm_pincell_2g_centerline.png)
 
 ## 📂 Structure
 
