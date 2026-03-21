@@ -14,6 +14,12 @@ This repository contains simple, clean, and educational implementations of well-
 - k-eigenvalue problem
 - Finite Difference (FD)
 - Python version
+- 
+### 3. C5G7 
+- Two-group neutron diffusion
+- k-eigenvalue problem
+- Finite Difference (FD)
+- Python version
  
 ## 📊 Features
 
@@ -48,6 +54,7 @@ The goal of this repository is to:
 ![fdm_pincell_2g_matmap](pincell_2group_FD_py/fdm_pincell_2g_matmap.png)
 ![fdm_pincell_2g_flux](pincell_2group_FD_py/fdm_pincell_2g_flux.png)
 ![fdm_pincell_2g_centerline](pincell_2group_FD_py/fdm_pincell_2g_centerline.png)
+![c5g7_flux_power_analysis](C5G7_fd_solver_py/c5g7_flux_power_analysis.png)
 
 ## 📂 Structure
 
