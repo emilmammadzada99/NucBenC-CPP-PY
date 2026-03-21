@@ -16,7 +16,7 @@ This repository contains simple, clean, and educational implementations of well-
 - Python version
 - 
 ### 3. C5G7 
-- Two-group neutron diffusion
+- neutron diffusion
 - k-eigenvalue problem
 - Finite Difference (FD)
 - Python version
