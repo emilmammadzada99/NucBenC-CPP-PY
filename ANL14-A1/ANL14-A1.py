@@ -26,8 +26,6 @@ Geometry (ANL14-A1 quarter-core, 165 cm × 165 cm, 2D):
   Regions are assigned analytically based on coordinate ranges extracted from the .geo file.
   Symmetry BC (zero-flux gradient) on the left and bottom edges.
   Vacuum (zero-flux Dirichlet) on the right and top edges.
-
-Author: auto-generated from the original dolfinx code
 """
 
 import numpy as np
