@@ -24,7 +24,14 @@ This repository contains simple, clean, and educational implementations of well-
 - k-eigenvalue problem
 - Finite Difference (FD)
 - Python version
- 
+### 5. BWR Core Benchmark: 2-Group Neutron Diffusion on 72×72 Pin-Level Lattice
+- Two-group neutron diffusion equation  
+- k-eigenvalue (criticality) problem solved via power iteration  
+- Finite Difference Method (FD) for spatial discretization  
+- 72×72 pin-level heterogeneous core model  
+- Material regions: UO₂ fuel, Gd-bearing fuel, and moderator (water)  
+- Sparse matrix formulation for efficient computation  
+- Implemented in Python using NumPy and SciPy
 ## 📊 Features
 
 - Sparse matrix assembly (SciPy / Eigen)
@@ -61,6 +68,8 @@ The goal of this repository is to:
 ![c5g7_flux_power_analysis](C5G7_fd_solver_py/c5g7_flux_power_analysis.png)
 ![ANL14-A1-region_map](ANL14-A1/region_map.png)
 ![ANL14-A1-steady_state](ANL14-A1/steady_state.png)
+![BWR-Core](BWR_fullcore_fd_solver/BWR_FD_Solver.png)
+![BWR-Lattice](BWR_fullcore_fd_solver/BWR_Lattice_FD_Solver.png)
 
 ## 📂 Structure
 
