@@ -32,6 +32,22 @@ This repository contains simple, clean, and educational implementations of well-
 - Material regions: UO₂ fuel, Gd-bearing fuel, and moderator (water)  
 - Sparse matrix formulation for efficient computation  
 - Implemented in Python using NumPy and SciPy
+
+# Reactor Physics Benchmark Suite
+
+A unified Pygame application for neutron diffusion simulations featuring ANL14-A1, ANL 11-A2, BWR Core, and C5G7 reactor physics benchmarks with interactive 3D visualization.
+## Visualization
+
+![Reactor Physics Benchmark Suite](Reactor Physics-Benchmark-Suite/suite.gif)
+
+### Benchmark Results
+
+![5s](Reactor Physics-Benchmark-Suite/image_6s.png)
+![10s](Reactor Physics-Benchmark-Suite/image_11s.png)
+![23s](Reactor Physics-Benchmark-Suite/image_24s.png)
+![34s](Reactor Physics-Benchmark-Suite/image_34s.png)
+![37s](Reactor Physics-Benchmark-Suite/image_37s.png)
+
 ## 📊 Features
 
 - Sparse matrix assembly (SciPy / Eigen)
